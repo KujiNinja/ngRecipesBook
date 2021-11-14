@@ -9,3 +9,4 @@ export class Recipe {
     this.imagePath = imagePath;
   }
 }
+//model variant 1. look variant 2 on ingredient.model.ts
